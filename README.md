@@ -99,9 +99,25 @@ Random Forest: ~24.34 metros
 MLP (otimizado): ~156.82 metros
 
 Como Citar este Trabalho
-Se você utilizar este código ou os resultados em sua pesquisa, por favor, cite o nosso artigo:
 
-Basso, M. L., Souza, E. G., & Lucca, G. (2025). Predição Direta de Coordenadas em Redes LoRaWAN Utilizando Random Forest Regressor e Comparativo com MLP. 
+Se você utilizar este código, os dados ou a metodologia em sua pesquisa, por favor, cite o nosso trabalho. Você pode usar o seguinte formato:
+
+**Citação em Texto**
+```
+Basso, M. L., Souza, E. G., & Lucca, G. (2025). *Comparativo de algoritmos Random Forest e MLP para localização de dispositivos LoRaWAN* [Software]. GitHub. [https://github.com/MarcelBasso/lorawan-localization-rf-mlp](https://github.com/MarcelBasso/lorawan-localization-rf-mlp)
+```
+
+**Entrada BibTeX**
+```bibtex
+@misc{Basso2025GitHubRepo,
+  author       = {Basso, Marcel Luiz and Souza, Everton Granemann and Lucca, Giancarlo},
+  title        = {{lorawan-localization-rf-mlp: Comparativo de algoritmos Random Forest e MLP para localização de dispositivos LoRaWAN}},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{[https://github.com/MarcelBasso/lorawan-localization-rf-mlp](https://github.com/MarcelBasso/lorawan-localization-rf-mlp)}}
+}
+```
 
 
 Licença
